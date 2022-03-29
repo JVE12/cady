@@ -1,0 +1,9 @@
+body{
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(14, 139, 255);
+}
+
+button {
+    background-color: rgb(90, 255, 14);
+}
